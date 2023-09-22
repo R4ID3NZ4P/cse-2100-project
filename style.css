@@ -1,0 +1,8 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+#board {
+    background-image: url("flappybirdbg.png");
+}
